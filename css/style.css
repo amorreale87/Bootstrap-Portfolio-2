@@ -1,0 +1,222 @@
+/*Global*/
+
+body{
+	
+	background-image: url("../img/new_year_background.png");
+	
+
+}
+
+/*Sidebar*/
+.panel h3 {
+	font-size: 18px; 
+	color:#4aaaa5;
+	border-bottom: 3px solid #ddd;
+	margin-bottom:10px;
+	padding: 10px 0px 20px 0px;
+
+}
+.sidebar-img img{
+
+	width: 60px;
+	height:60px;
+	margin:0px 5px 0px 10px;
+	float: left; 
+}
+/*#stackoverflow-img{
+
+	width: 75px;
+	height:65px;
+	float: left; 
+}
+*/
+
+
+.footer{
+
+
+	  position: relative;
+	  margin-top: -150px; /* negative value of footer height */
+	  height: 150px;
+	  clear:both;
+	  padding-top:20px;
+
+
+	/*width: 100%; */
+	height: 100px; 
+
+	background-color:#666666;
+	color: #fff;  
+
+	text-align: center; 
+	font-size: 18px;
+
+	border-top: 8px #4aaaa5 solid; 
+}
+
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 100px;
+  background-color:#666666;
+	color: #fff;  
+
+
+}
+
+.footer p {
+
+	color: #fff; 
+	font-size: 18px; 
+}
+
+
+/*Sticky footer End*/
+
+#headshot{
+
+	height: 125px; 
+	width: 200px;
+	margin:5px 20px 5px 20px;
+	float: left; 
+}
+
+
+.name-tag{
+
+	text-align:center;
+	
+	color:#fff;
+
+	background-color: #4aaaa5 ; 
+	height: 75px;
+
+	padding: 0px 20px 0px 20px; 
+
+
+
+}
+
+
+.navbar-default .navbar-brand {
+    color: #fff;
+	font-size: 20px;
+	line-height: 40px; 
+
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+    line-height: 40px; 
+}
+
+
+.page-header h1{
+
+	margin:0px 25px 20px 25px;
+	padding-bottom: 20px;
+	color: #4aaaa5;
+	border-bottom: 3px solid #ddd;
+}
+
+.page-header{
+
+	border: none; 
+}
+
+.page-header p{
+
+	margin: 15px; 
+}
+
+
+/*Contact Page */
+
+.submit-button {
+
+	margin: 20px 20px 20px 20px; 
+
+}
+
+input{
+
+	margin: 20px 20px 20px 20px; 
+
+}
+
+.contact-info h2 {
+
+	margin-left: 15px; 
+	color: #777; 
+
+}
+
+
+.form-control input{
+
+	height: 100px; 
+}
+
+
+
+/*Portfolio Page*/
+
+
+.contact-info img{
+
+	margin: 0 auto;
+
+	height: 200px; 
+	width:200px;
+
+	float: left; 
+	margin: 20px; 
+}
+
+ .contact-info{
+	margin: 0 auto;
+	overflow: hidden; 
+	/*height: 900px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
